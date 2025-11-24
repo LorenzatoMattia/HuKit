@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" alt="HuKit Logo" width="300"/>
 </p>
-
 # HuKit – Hückel Molecular Orbital Toolkit
 
 **Stable version:** v1.0.0  
