@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="HuKit Logo" width="250"/>
+  <img src="assets/logo.png" alt="HuKit Logo" width="450"/>
 </p>
 
 # HuKit – Hückel Molecular Orbital Toolkit
