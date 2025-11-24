@@ -32,23 +32,22 @@ It allows the calculation and visualization of molecular orbitals, including mol
 - **Windows (64-bit)**  
   Download the standalone executable from the [Release](https://github.com/LorenzatoMattia/HuKit/releases) section of the repository.
 
---
+---
 
 ## Usage
-**1.** Launch huKit.exe from the executable
-**2.** Load a molecule using .mol or SMILES
-**3.** Select the desired electronic configuration
-**4.** Visualize 3D orbitals and energy diagrams
-**5.** Export results if needed
+1. Launch huKit.exe from the executable
+2. Load a molecule using .mol or SMILES
+3. Select the desired electronic configuration
+4. Visualize 3D orbitals and energy diagrams
+5. Export results if needed
 
---
+---
 
 ## License
 HuKit is distributed under the MIT License. See the LICENSE file for details.
 
---
+---
 
 ## Contact
-
-GitHub repository: https://github.com/LorenzatoMattia/HuKit
-Developer email: mattia.lorenzato.pers@gmail.com
+- GitHub repository: https://github.com/LorenzatoMattia/HuKit
+- Developer email: mattia.lorenzato.pers@gmail.com
