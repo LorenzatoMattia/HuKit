@@ -1,6 +1,6 @@
 ---
-name: bug_report.md
-about: "\U0001F41E Bug Report"
+name: "\U0001F41E Bug Report"
+about: Report a bug you encountered while using the software
 title: Bug
 labels: bug
 assignees: LorenzatoMattia
