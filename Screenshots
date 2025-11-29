@@ -1,1 +1,13 @@
-screenshot
+
+<p align="center">
+<img src="assets/logo.png" alt="HuKit Logo" width="250"/>
+</p>
+<h1 align="center">HuKit – Hückel Molecular Orbital Toolkit</h1>
+<p align="center">
+<a href="https://github.com/LorenzatoMattia/HuKit/releases/latest">
+<img src="https://img.shields.io/badge/stable%20version-v1.0.0-blue.svg" alt="Stable Version">
+</a>
+<a href="https://github.com/LorenzatoMattia/HuKit/releases">
+<img src="https://img.shields.io/badge/last%20release-24%20November%202025-green.svg" alt="Last Release">
+</a>
+</p>
