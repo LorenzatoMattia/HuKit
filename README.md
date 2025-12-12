@@ -27,9 +27,9 @@
     -   2 ) Supports `SMILES` for seamless data import (e.g. c1ccccc1).
 
 -   **🧪 Hückel Orbital Calculation**
-    -   Implements the standard Hückel model for accurate calculations.
-    -   Handles heteroatoms using a comprehensive set of tabulated parameters.
-    -   Calculates orbital energies and occupations based on the selected electronic configuration.
+    -   Implements the standard Hückel Hamiltonian for electronic structure calculations.
+    -   Handles heteroatoms using a comprehensive set of published parameters.
+    -   Calculates total energy, partial atomic charges and bond orders based on the selected electronic configuration.
 
 -   **🎨 3D Molecular Orbitals Visualization!**
     -   Provides stunning graphical representations of molecular orbitals with a simple click.
