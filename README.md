@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/LorenzatoMattia/HuKit/releases/latest">
-    <img src="https://img.shields.io/badge/stable%20version-v1.0.0-blue.svg" alt="Stable Version">
+    <img src="https://img.shields.io/badge/stable%20version-v2.0.0-blue.svg" alt="Stable Version">
   </a>
   <a href="https://github.com/LorenzatoMattia/HuKit/releases">
-    <img src="https://img.shields.io/badge/last%20release-24%20November%202025-green.svg" alt="Last Release">
+    <img src="https://img.shields.io/badge/last%20release-20%20December%202025-green.svg" alt="Last Release">
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ## 💻 No installation required!
 
 -   **Windows (64-bit)**
-    -   Simply download the standalone executable from the [**Release**](https://github.com/LorenzatoMattia/HuKit/releases) section of this repository.
+    -   Simply download the executable from the [**Release**](https://github.com/LorenzatoMattia/HuKit/tags) section of this repository.
 
 ---
 
