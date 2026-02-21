@@ -4,6 +4,9 @@
 <h1 align="center">HuKit – Hückel Molecular Orbital Toolkit</h1>
 
 <p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.12.10-3776ab.svg?logo=python&logoColor=white" alt="Python">
+  </a>
   <a href="https://github.com/LorenzatoMattia/HuKit/releases/latest">
     <img src="https://img.shields.io/badge/stable%20version-v2.0.0-blue.svg" alt="Stable Version">
   </a>
